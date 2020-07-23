@@ -1,4 +1,4 @@
-TinDog Starting Files
+tinder for dogs
 link to view: https://onlyarsh.github.io/tinder-dogs/
 
 below here is a screenshot of the home page

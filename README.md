@@ -1,5 +1,5 @@
 dogs matchmaking website <br>
-link to view: https://onlyarsh.github.io/tinder-dogs/
+link to view: https://onlyarsh.github.io/dogs-matchmaking/
 <br>
 
 below here is a screenshot of the home page

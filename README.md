@@ -1,5 +1,5 @@
 dogs matchmaking website <br>
-link to view: https://onlyarsh.github.io/dogs-matchmaking/
+link to view: https://arsh028.github.io/dogs-matchmaking/
 <br>
 
 below here is a screenshot of the home page
